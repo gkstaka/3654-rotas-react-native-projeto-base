@@ -2,8 +2,8 @@
 
 ## Adopet
 Uma rede social para adotantes encontrarem cachorros ou gatos para adoção.
-[Veja em uma simulação no Snack](https://appetize.io/embed/pervthlacse7rmjfnafyrnhdoy?device=iphone15pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A50.0.0%26channel-name%3Dproduction%26snack%3D%2540git%252Fgithub.com%252Fgkstaka%252F3654-rotas-react-native-projeto-base%26snack-channel%3DSvoHKVLoJB&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both)
 <img src='https://github.com/MonicaHillman/3654-rotas-react-native/assets/51282495/4c479e79-de2b-4a7b-958e-c57bce1c1282' alt='screenshot da aplicação' width='150px'/>
+[Veja em uma simulação no Snack]([https://appetize.io/embed/pervthlacse7rmjfnafyrnhdoy?device=iphone15pro&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A50.0.0%26channel-name%3Dproduction%26snack%3D%2540git%252Fgithub.com%252Fgkstaka%252F3654-rotas-react-native-projeto-base%26snack-channel%3DSvoHKVLoJB&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both](https://appetize.io/embed/vesv2fdfihxqdf2mf4t4gm2ogu?device=pixel7&launchUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A50.0.0%26channel-name%3Dproduction%26snack%3D%2540git%252Fgithub.com%252Fgkstaka%252F3654-rotas-react-native-projeto-base%26snack-channel%3DSvoHKVLoJB&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D&appearance=light&deviceColor=black&scale=auto&orientation=portrait&centered=both))
 
 ## 🔨 Funcionalidades do Projeto
 Nesta parte do projeto desenvolvemos o fluxo de navegação da aplicação.
